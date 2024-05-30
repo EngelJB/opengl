@@ -1,0 +1,6 @@
+PyOpenGL
+PyOpenGL_accelerate
+pyassimp
+numpy
+PyGLUT
+setuptools
